@@ -26,3 +26,7 @@ This is a small Java application that provides a simple To-Do List with a Swing-
 2. **Check** that you have SQLite JDBC on your classpath (some JDKs include it by default).
 3. **Compile** the project.  
 4. **Run** the `Main` class. You should see the main window.
+
+## 📄 License
+
+[MIT](LICENSE) © 2025 Arkadiy Panov
